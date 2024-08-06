@@ -18,12 +18,12 @@ namespace Console_App_Assignment
                 count++; // add one to count each time
             }
 
-            while (count < 5); // Continue to loop until count reaches 5
+            while (count < 7); // Continue to loop until count reaches 5
             {
 
                 // This is a  WHILE  loop
                 int counting = 0;
-                while (counting < 3) // Continue to loop until counting reaches 3
+                while (counting < 9) // Continue to loop until counting reaches 3
                 {
                     Console.WriteLine("Counting numbers");
                     counting++; // add one to counting each time
